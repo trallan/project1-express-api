@@ -16,7 +16,7 @@ A minimal REST API built with [Express.js](https://expressjs.com/) demonstrating
 ```bash
 git clone https://github.com/trallan/project1-express-api/
 cd project1-express-api
-npx init
+npm init
 npm install express
 ```
 
