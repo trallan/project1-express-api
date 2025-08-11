@@ -18,3 +18,10 @@ git clone https://github.com/trallan/project1-express-api/
 cd project1-express-api
 npx init
 npm install express
+```
+
+## Run
+```bash
+node server.ts
+```
+
