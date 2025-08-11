@@ -1,0 +1,17 @@
+{
+  "name": "project1-express-api",
+  "version": "1.0.0",
+  "description": "Express server with CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1"
+  }
+}
