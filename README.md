@@ -14,6 +14,6 @@ A minimal REST API built with [Express.js](https://expressjs.com/) demonstrating
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/trallan/project1-express-api/
+cd project1-express-api
 npm install
