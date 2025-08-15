@@ -1,9 +1,9 @@
-GET https://effective-space-palm-tree-9wrj7w5jxqjc76pj-3000.app.github.dev/items
+GET http://localhost/items
 
 
 ###
 
-POST https://effective-space-palm-tree-9wrj7w5jxqjc76pj-3000.app.github.dev/items
+POST http://localhost/items
 Content-Type: application/json
 
 {
@@ -13,7 +13,7 @@ Content-Type: application/json
 
 ###
 
-PUT https://effective-space-palm-tree-9wrj7w5jxqjc76pj-3000.app.github.dev/items/4
+PUT http://localhost/items/4
 Content-Type: application/json
 
 {
@@ -23,4 +23,4 @@ Content-Type: application/json
 
 ###
 
-DELETE https://effective-space-palm-tree-9wrj7w5jxqjc76pj-3000.app.github.dev/items/3
+DELETE http://localhost/items/3
